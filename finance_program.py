@@ -40,6 +40,10 @@ while option != 3 :
 
             poweredSalary= sm ** 2
 
+            additional = float(input("Enter additional savings : "))
+            left =round(additional / savingAmount,2)
+
+
 
 
 
