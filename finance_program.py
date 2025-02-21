@@ -71,8 +71,12 @@ while option != 3 :
             for i in data :
                 print("\n----------------------------------")
                 for key, value in i.items():
-                    print(f"{key}: {value}")    
-        
+                    print(f"{key}: {value}")  
+                    
+    option = int(input("Enter your option :"))      
+
+print("EXIT")
+  
 
 
 
