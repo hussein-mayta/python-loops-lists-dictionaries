@@ -33,4 +33,6 @@ while option != 3 :
 
             total= savingAmount + rentAmount + electricityAmount
 
+            remainder = sm - total
+
 
