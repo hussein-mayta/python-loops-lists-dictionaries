@@ -25,3 +25,9 @@ while option != 3 :
         
             pe=float(input("Enter percentage of electricity :")) # pe: percentage electricity
 
+            savingAmount = (sm * ps)/100
+            
+            rentAmount = (sm * pr)/100
+            
+            electricityAmount= (sm * pe)/100
+
