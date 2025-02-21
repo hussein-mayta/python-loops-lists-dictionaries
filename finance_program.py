@@ -43,6 +43,21 @@ while option != 3 :
             additional = float(input("Enter additional savings : "))
             left =round(additional / savingAmount,2)
 
+            dic={
+                "Month ": nm,
+                "Salary ": sm,
+                "Saving amount ": savingAmount,
+                "Rent amount ": rentAmount,
+                "Electricity amount ":electricityAmount,
+                "Total spend " : total,
+                "Salary remainder ": remainder,
+                "yearly cost of rent  ":yearlyRent,
+                "yearly cost of electricity ":yearlyElect,
+                "Salary power 2 ":poweredSalary,
+                "Left ": left,
+            }
+
+
 
 
 
