@@ -59,6 +59,12 @@ while option != 3 :
 
             data.append(dic)
 
+        else :
+            print("You already entered this month !!!")
+
+    elif option ==2 :
+        
+
 
 
 
