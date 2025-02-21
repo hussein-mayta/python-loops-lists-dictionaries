@@ -63,6 +63,8 @@ while option != 3 :
             print("You already entered this month !!!")
 
     elif option ==2 :
+        if len(data) == 0:
+            print("You haven't entered any data yet")
         
 
 
