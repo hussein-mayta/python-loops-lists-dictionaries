@@ -31,3 +31,6 @@ while option != 3 :
             
             electricityAmount= (sm * pe)/100
 
+            total= savingAmount + rentAmount + electricityAmount
+
+
