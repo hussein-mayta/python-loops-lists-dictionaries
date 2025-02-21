@@ -38,5 +38,8 @@ while option != 3 :
             yearlyRent= rentAmount * 12
             yearlyElect= electricityAmount * 12
 
+            poweredSalary= sm ** 2
+
+
 
 
