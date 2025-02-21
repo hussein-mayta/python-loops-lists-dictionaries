@@ -18,3 +18,10 @@ while option != 3 :
 
         if nm not in months:
             months.append(nm)
+
+            ps=float(input("Enter percentage of savings :"))     # ps: percentage saving
+        
+            pr=float(input("Enter percentage of rent :"))        # pr: percentage rent
+        
+            pe=float(input("Enter percentage of electricity :")) # pe: percentage electricity
+
