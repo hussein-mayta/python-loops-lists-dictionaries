@@ -6,3 +6,6 @@ print(" 2: Print data history.")
 print(" 3: Exit.")
 
 option = int(input("Enter your option :"))
+
+data=[]
+months=[]
