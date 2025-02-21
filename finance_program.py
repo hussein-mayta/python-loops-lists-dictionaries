@@ -13,3 +13,5 @@ months=[]
 while option != 3 :
     
     if option == 1:
+        sm=float(input("Enter your monthly salary :"))  # sm: for salary of the month
+        nm=input("Enter name of month :")  # nm: for name of month
