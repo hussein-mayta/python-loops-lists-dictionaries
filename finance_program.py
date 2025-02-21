@@ -9,3 +9,7 @@ option = int(input("Enter your option :"))
 
 data=[]
 months=[]
+
+while option != 3 :
+    
+    if option == 1:
