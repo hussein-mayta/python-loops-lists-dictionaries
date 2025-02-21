@@ -35,4 +35,8 @@ while option != 3 :
 
             remainder = sm - total
 
+            yearlyRent= rentAmount * 12
+            yearlyElect= electricityAmount * 12
+
+
 
