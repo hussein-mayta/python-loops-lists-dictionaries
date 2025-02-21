@@ -65,6 +65,13 @@ while option != 3 :
     elif option ==2 :
         if len(data) == 0:
             print("You haven't entered any data yet")
+
+        else:
+            print("\nFinance History: ")
+            for i in data :
+                print("\n----------------------------------")
+                for key, value in i.items():
+                    print(f"{key}: {value}")    
         
 
 
