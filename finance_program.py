@@ -57,6 +57,8 @@ while option != 3 :
                 "Left ": left,
             }
 
+            data.append(dic)
+
 
 
 
